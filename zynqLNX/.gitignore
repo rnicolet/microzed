@@ -6,3 +6,4 @@ images/linux/
 *.o
 *.jou
 *.log
+boot_img.bin
