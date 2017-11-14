@@ -1,0 +1,6 @@
+image : {
+        [bootloader]./images/linux/zynq_fsbl.elf
+        ./images/linux/bdZynq_wrapper.bit
+        ./images/linux/u-boot.elf
+        [offset = 0x520000, reserve = 0xA80000]./images/linux/image.ub
+}

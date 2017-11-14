@@ -1,6 +1,6 @@
 */config.old
 build/
-images/
+images/linux/
 .petalinux/*
 !.petalinux/metadata
 *.o
