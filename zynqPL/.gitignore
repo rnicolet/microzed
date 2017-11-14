@@ -1,0 +1,7 @@
+*.jou
+*.log
+zynqPL.cache/
+zynqPL.hw/
+zynqPL.runs/
+zynqPL.srcs/
+zynqPL.xpr
