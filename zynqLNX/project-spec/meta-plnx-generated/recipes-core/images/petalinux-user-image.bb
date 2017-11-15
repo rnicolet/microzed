@@ -18,5 +18,6 @@ IMAGE_INSTALL = "\
 		packagegroup-core-ssh-dropbear \
 		tcf-agent \
 		bridge-utils \
+		test-app-1 \
 		"
 EXTRA_USERS_PARAMS = "usermod -P root root;"
